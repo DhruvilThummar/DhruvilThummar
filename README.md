@@ -1,6 +1,8 @@
 #Stone Paper Scissors Game 
 
-🪨📃✂️🎮![Uploading XboxOneSXboxGIF.gif…]()
+🪨📃
+![XboxOneControllerGIF](https://github.com/user-attachments/assets/eca7436a-7e9f-4048-989c-e8194b7c08da)
+✂️🎮
 
 
 #Stone Paper Scissor Game Without loop
