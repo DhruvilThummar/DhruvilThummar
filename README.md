@@ -1,6 +1,6 @@
 #Stone Paper Scissors Game 
 
-🪨📃✂️🎮
+
 ![MeteoriteStoneGIF](https://github.com/user-attachments/assets/49566767-e2c7-4f26-9b73-f56d5eb53995)![PaperGIF](https://github.com/user-attachments/assets/02015e8a-9815-4b39-9a3b-a513c81d9273)![ScissorsOfficeGIF](https://github.com/user-attachments/assets/d0f8b634-34da-4a19-b1cf-48dc35dd9192)
 
 #Stone Paper Scissor Game Without loop
