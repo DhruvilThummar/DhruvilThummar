@@ -1,5 +1,7 @@
 #Stone Paper Scissors Game 
+
 🪨📃✂️🎮
+
 #Stone Paper Scissor Game Without loop
 
 This Java program is a simple **Stone, Paper, Scissors** game that allows a user to play against the computer. Below is a detailed description of its functionality:
