@@ -10,7 +10,7 @@ Passionate software developer with expertise in Java, Python, and web technologi
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvilThummar&theme=dark&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=piyushjt&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DhruvilThummar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvilThummar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 👀 Profile Visitors
