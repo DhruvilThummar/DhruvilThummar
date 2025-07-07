@@ -13,9 +13,6 @@ Passionate software developer with expertise in Java, Python, and web technologi
 ![](https://nirzak-streak-stats.vercel.app/?user=DhruvilThummar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvilThummar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 👀 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/DhruvilThummar/count.svg)
-
 # 🏆 My GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DhruvilThummar&theme=dark)
 
