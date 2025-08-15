@@ -1,5 +1,5 @@
 ## About Me
---
+
 Passionate software developer with expertise in Java, Python, and web technologies. 
 --
 ## 🌐 Socials:
