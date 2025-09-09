@@ -2,6 +2,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhruvil%20Thummar%20🚀&fontSize=40&fontAlignY=35&desc=Passionate%20Software%20Developer%20|%20Java%20%7C%20Python%20%7C%20Web%20Technologies&descAlignY=55&descAlign=50)
 
 ---
+## About Me  
+- Hi, I’m a Computer Engineering student who loves coding and solving problems. I have a good grasp of programming, data structures, and algorithms, and I enjoy building apps that are fast, easy to use, and reliable. I’m looking forward to applying my skills in real projects.
+---
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruvil_thummar_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-thummar-54422731a)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvilthummar1303@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruvilthummar.github.io/portfolio/)  
 
@@ -11,9 +14,6 @@
 
 ---
 
-## About Me  
-- I am a dedicated Computer Engineering student with a strong interest in software development and problem-solving. Through my studies, I have built a good understanding of Object-Oriented Programming, Data Structures, and Algorithms. I enjoy the challenge of creating applications that are efficient, scalable, and easy to use. I am also looking for opportunities to apply my skills to real-world projects.
----
 # 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvilThummar&theme=dark&hide_border=false&include_all_commits=true)  
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DhruvilThummar&theme=dark&hide_border=false)  
