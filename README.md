@@ -28,23 +28,5 @@ Passionate software developer with expertise in Java, Python, and web technologi
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
 ---
-# 📬 Contact Me  
-
-<p align="center">
-  <a href="mailto:dhruvilthummar1303@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dhruvil-thummar-54422731a">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/dhruvil_thummar_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://dhruvilthummar.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>  
-
----
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
