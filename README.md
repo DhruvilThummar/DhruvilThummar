@@ -3,7 +3,8 @@
 Passionate software developer with expertise in Java, Python, and web technologies. 
 ---
 ## 🔗 Portfolio : 
-   https://dhruvilthummar.github.io/portfolio/
+   [![Portfolio](https://img.shields.io/badge/Git-%23F05033.svg?logo=linkedin&logoColor=white)](https://dhruvilthummar.github.io/portfolio/) 
+   
 ---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvil_thummar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-thummar-54422731a)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvilthummar1303@gmail.com) 
