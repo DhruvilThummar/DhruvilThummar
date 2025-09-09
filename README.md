@@ -33,9 +33,5 @@ Passionate software developer with expertise in Java, Python, and web technologi
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DhruvilThummar&theme=dark)  
 
 ---
-# 🐍 GitHub Contribution Snake  
-![GitHub Snake Animation](https://github.com/DhruvilThummar/DhruvilThummar/blob/output/github-contribution-grid-snake.svg)  
-
----
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
