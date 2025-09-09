@@ -2,8 +2,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhruvil%20Thummar%20🚀&fontSize=40&fontAlignY=35&desc=Passionate%20Software%20Developer%20|%20Java%20%7C%20Python%20%7C%20Web%20Technologies&descAlignY=55&descAlign=50)
 
 ## About Me  
-Passionate software developer with expertise in Java, Python, and web technologies.  
-
+I am a dedicated Computer Engineering student with a strong interest in software development and problem-solving. Through my studies, I have built a good understanding of Object-Oriented Programming, Data Structures, and Algorithms. I enjoy the challenge of creating applications that are efficient, scalable, and easy to use. I am also looking for opportunities to apply my skills to real-world projects.
 ---
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruvil_thummar_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-thummar-54422731a)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvilthummar1303@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruvilthummar.github.io/portfolio/)  
