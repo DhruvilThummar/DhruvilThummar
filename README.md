@@ -12,7 +12,7 @@
 ---
 
 ## About Me  
-I am a dedicated Computer Engineering student with a strong interest in software development and problem-solving. Through my studies, I have built a good understanding of Object-Oriented Programming, Data Structures, and Algorithms. I enjoy the challenge of creating applications that are efficient, scalable, and easy to use. I am also looking for opportunities to apply my skills to real-world projects.
+- I am a dedicated Computer Engineering student with a strong interest in software development and problem-solving. Through my studies, I have built a good understanding of Object-Oriented Programming, Data Structures, and Algorithms. I enjoy the challenge of creating applications that are efficient, scalable, and easy to use. I am also looking for opportunities to apply my skills to real-world projects.
 ---
 # 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvilThummar&theme=dark&hide_border=false&include_all_commits=true)  
