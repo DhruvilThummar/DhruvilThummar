@@ -49,6 +49,11 @@ A Java-based system to handle **tour bookings, accommodations, transportation & 
 - Used **Java, MySQL, JDBC, Data Structures**  
 - Role-based login system with customer & admin modules.  
 
+**Tech Stack**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white) 
+![Data Structures](https://img.shields.io/badge/Data%20Structures-02569B?style=flat-square)  
 ---
 
 ## 🔹 [What's in My Fridge? - Recipe Suggester](https://github.com/DhruvilThummar/What-s-In-My-Fridge)  
