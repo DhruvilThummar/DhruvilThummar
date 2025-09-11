@@ -3,7 +3,9 @@
 
 ---
 ## About Me  
-- Hi, I’m a Computer Engineering student who loves coding and solving problems. I have a good grasp of programming, data structures, and algorithms, and I enjoy building apps that are fast, easy to use, and reliable. I’m looking forward to applying my skills in real projects.
+- Hi, I’m Dhruvil. I’m a Computer Engineering student who loves coding and building cool projects. I know Java, Python, and web development, and I enjoy solving problems and learning new tech.
+
+- I’m always looking for chances to use my skills in real projects and grow as a developer. My goal is to make apps and websites that are simple, fast, and useful for people.
 ---
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruvil_thummar_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-thummar-54422731a)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvilthummar1303@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruvilthummar.github.io/portfolio/)  
