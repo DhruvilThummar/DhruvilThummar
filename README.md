@@ -18,30 +18,6 @@
 <a href="https://dhruvilthummar.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>  
 
 ---
-
-# 💻 Tech Stack  
-
-**Languages & Core**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-
-**Tools & DB**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
----
-
-# 🚀 Featured Projects  
-
-## 🔹 [Tourism Management System](https://github.com/DhruvilThummar/Tourism_Management_System)  
-A Java-based system to handle **tour bookings, accommodations, transportation & itinerary planning**.  
-- Used **Java, MySQL, JDBC, Data Structures**  
-- Role-based login system with customer & admin modules.  
-
 # 💻 Tech Stack  
 
 **Languages & Core**  
@@ -66,16 +42,12 @@ A Java-based system to handle **tour bookings, accommodations, transportation & 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  
 
 ---
+# 🚀 Featured Projects  
 
-## 🔹 [Project Management System](https://github.com/DhruvilThummar/Project_Management_System)  
-Helps manage projects & tasks with **role-based access control**.  
-- Built using **Java Collections, File I/O, JDBC, Inheritance, Interfaces**  
-- Includes **User Management + Project Module**  
-
-**Tech Stack**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
-![JDBC](https://img.shields.io/badge/JDBC-blue?style=flat-square) 
-![File I/O](https://img.shields.io/badge/File_IO-gray?style=flat-square)  
+## 🔹 [Tourism Management System](https://github.com/DhruvilThummar/Tourism_Management_System)  
+A Java-based system to handle **tour bookings, accommodations, transportation & itinerary planning**.  
+- Used **Java, MySQL, JDBC, Data Structures**  
+- Role-based login system with customer & admin modules.  
 
 ---
 
