@@ -51,7 +51,7 @@ A Java-based system to handle **tour bookings, accommodations, transportation & 
 
 ---
 
-## 🔹 [What's in My Fridge? - Recipe Suggester](https://github.com/DhruvilThummar/Recipe_Suggester)  
+## 🔹 [What's in My Fridge? - Recipe Suggester](https://github.com/DhruvilThummar/What-s-In-My-Fridge)  
 Suggests recipes based on available ingredients.  
 - Tech: **Java (logic), MySQL (recipes DB), HTML/CSS (frontend)**  
 - Goal: Minimize food waste by smart suggestions.  
