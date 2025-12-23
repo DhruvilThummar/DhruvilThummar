@@ -15,7 +15,7 @@
 <a href="https://instagram.com/dhruvil_thummar_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/dhruvil-thummar-54422731a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dhruvilthummar1303@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://dhruvilthummar.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>  
+<a href="https://drthummar.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>  
 
 ---
 # 💻 Tech Stack  
