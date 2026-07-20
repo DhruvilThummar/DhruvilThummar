@@ -102,11 +102,6 @@ Here's a breakdown of the technologies and tools I work with:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvilThummar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Dhruvil's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvilThummar&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="175"/>
-
-  <br/><br/>
-
   ![GitHub Streak](https://streak-stats.demolab.com?user=DhruvilThummar&theme=dark&hide_border=true)
 
   <br/><br/>
