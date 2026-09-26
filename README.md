@@ -23,57 +23,6 @@ I'm a Computer Engineering student dedicated to engineering robust, high-perform
 
 ---
 
-### 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌾 AgriCast-AI</h3>
-      <p>Agricultural market intelligence platform integrating live APMC Mandi web scraping, real-time weather telemetry, and a Scikit-Learn GBDT ensemble engine with a React PWA.</p>
-      <p align="center">
-        <code>Python</code> &bull; <code>Scikit-Learn</code> &bull; <code>React</code> &bull; <code>PWA</code>
-      </p>
-      <p align="center">
-        <a href="https://agricastai.vercel.app/" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/DhruvilThummar/AgriCast-AI" target="_blank"><b>💻 Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎵 BeatBox-X</h3>
-      <p>Modern, ad-free web music player featuring interactive 3D WebGL background visualizations, playlist management, and optimized mobile-first ergonomics.</p>
-      <p align="center">
-        <code>JavaScript</code> &bull; <code>WebGL</code> &bull; <code>HTML5/CSS3</code>
-      </p>
-      <p align="center">
-        <a href="https://beat-box-x.vercel.app" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/DhruvilThummar/BeatBox-X" target="_blank"><b>💻 Code</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Machine-Learning</h3>
-      <p>End-to-end machine learning implementations including data preprocessing, exploratory data analysis (EDA), standalone training scripts, and model evaluation.</p>
-      <p align="center">
-        <code>Python</code> &bull; <code>Scikit-Learn</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/DhruvilThummar/Machine-Learning" target="_blank"><b>💻 Code Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Personal Portfolio</h3>
-      <p>Personal developer portfolio featuring responsive design, technical write-ups, interactive UI components, and project demonstrations.</p>
-      <p align="center">
-        <code>TypeScript</code> &bull; <code>React</code> &bull; <code>Tailwind CSS</code>
-      </p>
-      <p align="center">
-        <a href="https://drthummar.me" target="_blank"><b>🔗 Live Website</b></a> &nbsp;|&nbsp; <a href="https://github.com/DhruvilThummar/DhruvilThummar.github.io" target="_blank"><b>💻 Code</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 💻 Technologies & Stack
 
 <div align="center">
