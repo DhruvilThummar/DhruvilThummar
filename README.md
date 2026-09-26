@@ -1,152 +1,102 @@
-<!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhruvil%20Thummar%20🚀&fontSize=40&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20%7C%20Django%20%7C%20AI/ML&descAlignY=55&descAlign=50)
-
----
-
-## 👋 Hey there! I'm Dhruvil  
-
-I'm a Computer Engineering student passionate about crafting clean, efficient, and impactful software! 💻  
-
-**What I'm all about:**
-- 🚀 Building scalable web applications with **MERN Stack**, **Django**, and **REST APIs**
-- 🤖 Developing Machine Learning models using **Python**, **scikit-learn**, **Pandas**, and **NumPy**
-- ☕ Geeking out over **Java**, **Python**, and **Software Architecture**
-- 🎯 Creating digital solutions that are **fast, intuitive, and data-driven**
-
-When I'm not coding, you'll find me exploring emerging tech trends, building side projects, or solving algorithmic challenges. Let's create something awesome!
-
----
-
-## 🎯 What I'm Up To Right Now
-
-- 🌐 Developing modern web apps and **RESTful APIs** using **Django** and **React / MERN**
-- 🤖 Building **Machine Learning** models with **scikit-learn**, **Pandas**, and **NumPy**
-- 📱 Designing sleek, responsive user interfaces
-- 📚 Refining problem-solving & data structures skills
-- 🌟 Contributing to open-source software projects
-
----
-
-## ⚡ Quick Facts About Me
-
-- 🔭 **Current Focus:** Full-Stack Web Development (**MERN / Django**) & **AI/ML**
-- 🌱 **Learning:** **scikit-learn**, **Pandas**, **TypeScript**, and **REST API design**
-- 👯 **Open to:** Collaborating on innovative open-source, web, or ML projects
-- 💬 **Ask me about:** **Django**, **REST APIs**, **Machine Learning**, **Java**, or **MERN Stack**
-- ⚡ **Fun Fact:** Sucker for coding challenges and trying out new developer tools!
-
----
-
-## 🌐 Let's Connect!  
-
 <div align="center">
-  <a href="https://linkedin.com/in/dhruvil-thummar-54422731a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://drthummar.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:dhruvilthummar1303@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://instagram.com/dhruvil_thummar_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <h1 align="center">Dhruvil Thummar</h1>
+  <p align="center"><b>Computer Engineering Student &bull; Full-Stack &amp; AI/ML Developer</b></p>
   
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=DhruvilThummar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</div>  
-
----
-
-# 💻 My Tech Toolbox  
-
-<div align="center">
-
-  <!-- Unified Skill Icons Bar -->
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,react,tailwind,django,nodejs,express,mongodb,mysql,postgres,git,github,vscode,idea,androidstudio,jupyter&perline=10" alt="Tech Stack Icons Grid" />
-    </a>
+    <a href="https://drthummar.me" target="_blank"><img src="https://img.shields.io/badge/Website-drthummar.me-18181b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/dhruvil-thummar-54422731a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="mailto:dhruvilthummar1303@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-
-  <br/>
-
-  ### 🗣️ **Languages & Core**
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </p>
-
-  ### ⚛️ **Frontend & Web**
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  </p>
-
-  ### ⚙️ **Backend & APIs**
-  <p align="center">
-    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/REST_API-005596?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
-    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  </p>
-
-  ### 🤖 **AI, ML & Web Scraping**
-  <p align="center">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
-    <img src="https://img.shields.io/badge/Web_Scraping-008080?style=for-the-badge&logo=python&logoColor=white" alt="Web Scraping"/>
-  </p>
-
-  ### 🗄️ **Databases**
-  <p align="center">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
-  </p>
-
-  ### 🛠️ **Tools & Platforms**
-  <p align="center">
-    <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE"/>
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-    <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix"/>
-  </p>
-
 </div>
 
+<br />
+
+### 📌 About
+
+I'm a Computer Engineering student dedicated to engineering robust, high-performance web systems and practical machine learning solutions. My work centers on clean software design, end-to-end type safety, and responsive user experiences.
+
+- 🔭 **Specialization:** Modern Web Applications (React, TypeScript, Node.js) & Backend Engineering (Django, RESTful APIs)
+- 🧠 **Machine Learning:** Predictive modeling & data analytics with Python, scikit-learn, and Pandas
+- ⚙️ **Engineering Practices:** Clean code architecture, modular design, and database optimization
+
 ---
 
-# 📊 My GitHub Activity
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 AgriCast-AI</h3>
+      <p>Agricultural market intelligence platform integrating live APMC Mandi web scraping, real-time weather telemetry, and a Scikit-Learn GBDT ensemble engine with a React PWA.</p>
+      <p align="center">
+        <code>Python</code> &bull; <code>Scikit-Learn</code> &bull; <code>React</code> &bull; <code>PWA</code>
+      </p>
+      <p align="center">
+        <a href="https://agricastai.vercel.app/" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/DhruvilThummar/AgriCast-AI" target="_blank"><b>💻 Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 BeatBox-X</h3>
+      <p>Modern, ad-free web music player featuring interactive 3D WebGL background visualizations, playlist management, and optimized mobile-first ergonomics.</p>
+      <p align="center">
+        <code>JavaScript</code> &bull; <code>WebGL</code> &bull; <code>HTML5/CSS3</code>
+      </p>
+      <p align="center">
+        <a href="https://beat-box-x.vercel.app" target="_blank"><b>🔗 Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/DhruvilThummar/BeatBox-X" target="_blank"><b>💻 Code</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Machine-Learning</h3>
+      <p>End-to-end machine learning implementations including data preprocessing, exploratory data analysis (EDA), standalone training scripts, and model evaluation.</p>
+      <p align="center">
+        <code>Python</code> &bull; <code>Scikit-Learn</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/DhruvilThummar/Machine-Learning" target="_blank"><b>💻 Code Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p>Personal developer portfolio featuring responsive design, technical write-ups, interactive UI components, and project demonstrations.</p>
+      <p align="center">
+        <code>TypeScript</code> &bull; <code>React</code> &bull; <code>Tailwind CSS</code>
+      </p>
+      <p align="center">
+        <a href="https://drthummar.me" target="_blank"><b>🔗 Live Website</b></a> &nbsp;|&nbsp; <a href="https://github.com/DhruvilThummar/DhruvilThummar.github.io" target="_blank"><b>💻 Code</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Technologies & Stack
 
 <div align="center">
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=DhruvilThummar&theme=dark&hide_border=true)
-
-  <br/><br/>
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhruvilThummar&theme=github-compact&hide_border=true&area=true)
-
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,tailwind,nodejs,express,django,postgres,mongodb,mysql,git,github,vscode,idea,docker,linux&perline=9" alt="Skills" />
 </div>
 
+<br />
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, Java, SQL |
+| **Frontend** | React, Tailwind CSS, HTML5, CSS3 |
+| **Backend & APIs** | Node.js, Express.js, Django, REST APIs |
+| **Data & ML** | scikit-learn, Pandas, NumPy, Jupyter |
+| **Databases & Tools** | PostgreSQL, MongoDB, MySQL, Git, Docker, Linux |
+
 ---
 
-# 💭 A Little Inspiration for Your Day  
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>  
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DhruvilThummar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true" alt="Dhruvil's Stats" height="155" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DhruvilThummar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="155" />
+</div>
 
----
-
-**Thanks for stopping by!** If you made it this far, you're awesome! 🌟  
-Got a cool project idea or just want to connect? Hit me up - let's create something amazing together! 
-
----
-
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
